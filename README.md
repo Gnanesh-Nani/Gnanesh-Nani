@@ -3,7 +3,7 @@
 Pre-Final Year CSE Student @ GCT Coimbatore
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" style="border-radius:60px">
 
-- 🔭 Here's my [portfolio](https://) (currently down)  <!-- Consider adding a note about it being down -->
+<!--  - 🔭 Here's my [portfolio](https://) (currently down)   Consider adding a note about it being down -->
 - 🌱 I’m currently grinding LeetCode
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
